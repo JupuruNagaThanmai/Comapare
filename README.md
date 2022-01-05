@@ -1,4 +1,4 @@
-# Comapare
+# Compare
 Comparing two numbers
 compare(int a,int b)
 { 
