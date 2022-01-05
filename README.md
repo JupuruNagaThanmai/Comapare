@@ -7,3 +7,10 @@ compare(int a,int b)
     else
      printf("b is greater"); 
  }
+ 
+ int main()
+ {
+   a=2,b=3;
+   compare(2,3)
+   return 0;
+ }
