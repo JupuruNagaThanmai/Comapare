@@ -11,6 +11,7 @@ compare(int a,int b)
  int main()
  {
    a=2,b=3;
-   compare(2,3)
+   compare(2,3);
+   printf("Sucessfully completed");
    return 0;
  }
